@@ -1,2 +1,1 @@
-# sorting_algorithms
-Big Oh notation in C with ALX SE
+The O notation Big O Tasks in ALX
